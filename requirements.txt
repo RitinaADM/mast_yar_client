@@ -1,0 +1,12 @@
+#app
+PySide6
+requests
+pydantic
+pydantic-settings
+python-dotenv
+pyinstaller
+
+#tests
+pytest
+pytest-mock
+httpx

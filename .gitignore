@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+server/compilate/build/
+client/src/build/
+server/records.db
+venv/
+*.egg-info/
+.env
+# Allow dist/ for T-Z requirement
+# server/compilate/dist/
+# client/src/dist/
