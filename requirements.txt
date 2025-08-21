@@ -9,5 +9,4 @@ pyinstaller
 #tests
 pytest
 pytest-mock
-pytest-qt
 httpx
